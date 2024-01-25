@@ -17,7 +17,7 @@ This is a simple Java project that demonstrates the K-means clustering algorithm
 ## Project Structure:
 
 - src/KMeans.java: The main class that contains the K-means clustering example.
-- lib/commons-math3-x.x.jar: The Apache Commons Math library JAR file.[Note: download it from link above]
+- lib/commons-math3-3.6.1: The Apache Commons Math library JAR file.[Note: download it from link above]
 
 ## Usage:
 
